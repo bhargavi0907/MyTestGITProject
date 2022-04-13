@@ -2,7 +2,8 @@ package package1;
 
 public class homework1 {
 
-	public static void bikeCondition(int a) {
+	public static void bikeCondition(int a)
+	{
 		if (a == 120 || a == 170 || a == 180 || a == 185 || a == 400) {
 			System.out.println("Your bike need repair");
 
