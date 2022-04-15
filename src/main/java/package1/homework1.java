@@ -7,6 +7,7 @@ public class homework1 {
 		if (a == 120 || a == 170 || a == 180 || a == 185 || a == 400) {
 			
 			System.out.println("Your bike need repair");
+			
 
 		} else {
 			System.out.println("You bike is in good condition");
